@@ -1,0 +1,16 @@
+{
+  "name": "hyper-sweet",
+  "version": "1.0.0",
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper-sweet",
+    "theme",
+    "dark"
+    ],
+  "description": "A dark and modern theme for hyper",
+  "repository": "https://github.com/EliverLara/hyper-sweet.git",
+  "author": "EliverLara",
+  "license": "MIT",
+  "dependencies": {}
+}
